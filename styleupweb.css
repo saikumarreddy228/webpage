@@ -14,7 +14,7 @@ body{
 .flight-logo-img {
     height: 70px;
     width: 100px;
-    object-fit: contain; /* Ensures the image scales nicely within the dimensions */
+    object-fit: contain; 
 }
 .menu{
     display: flex;
@@ -154,4 +154,5 @@ button{
 .side-text{
     max-width: 500px;
     text-align: justify;
+
 }
